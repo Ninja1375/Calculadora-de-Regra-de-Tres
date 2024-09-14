@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+[Calculadora de Regra de Três](https://ninja1375.github.io/Calculadora-de-Regra-de-Tres/)
+
 **Calculadora de Regra de Três simples**
 
 ## Funcionalidades:
