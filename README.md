@@ -30,4 +30,6 @@ A interface é simples, com campos bem organizados e setas que indicam clarament
 
 O layout é responsivo, garantindo boa usabilidade tanto em dispositivos móveis quanto em desktops.
 
-**Usabilidade:** O utilizador pode facilmente alternar entre proporções, calcular o valor de X e reiniciar para novos cálculos de forma eficiente, sem precisar recarregar a página.
+**Usabilidade:** 
+
+O utilizador pode facilmente alternar entre proporções, calcular o valor de X e reiniciar para novos cálculos de forma eficiente, sem precisar recarregar a página.
