@@ -26,4 +26,8 @@ O tipo de proporção também é redefinido para "Diretamente Proporcional" por 
 
 **Interface Intuitiva e Responsiva:**
 
-A interface é simples, com campos bem organizados e setas que indicam claramente a relação entre os valores (A → B e C → X).O layout é responsivo, garantindo boa usabilidade tanto em dispositivos móveis quanto em desktops.Usabilidade:O utilizador pode facilmente alternar entre proporções, calcular o valor de X e reiniciar para novos cálculos de forma eficiente, sem precisar recarregar a página.
+A interface é simples, com campos bem organizados e setas que indicam claramente a relação entre os valores (A → B e C → X).
+
+O layout é responsivo, garantindo boa usabilidade tanto em dispositivos móveis quanto em desktops.
+
+**Usabilidade:** O utilizador pode facilmente alternar entre proporções, calcular o valor de X e reiniciar para novos cálculos de forma eficiente, sem precisar recarregar a página.
