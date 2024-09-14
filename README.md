@@ -4,9 +4,7 @@
 
 **Seleção de Proporção (Direta ou Inversa):**
 
-O utilizador pode escolher entre dois tipos de proporção: **Diretamente Proporcional:** Quando o valor de uma variável aumenta, a outra também aumenta.
-
-**Inversamente Proporcional:** Quando o valor de uma variável aumenta, a outra diminui. O cálculo é adaptado conforme o tipo selecionado.
+O utilizador pode escolher entre dois tipos de proporção: **Diretamente Proporcional:** Quando o valor de uma variável aumenta, a outra também aumenta. **Inversamente Proporcional:** Quando o valor de uma variável aumenta, a outra diminui. O cálculo é adaptado conforme o tipo selecionado.
 
 **Cálculo Automático:**
 
