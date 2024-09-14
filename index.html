@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Regra de Três</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Regra de Três</h1>
+
+        <!-- Selecionar o tipo de proporção -->
+        <div class="input-group">
+            <label for="tipo">Tipo de Proporção:</label>
+            <select id="tipo">
+                <option value="direta">Diretamente Proporcional</option>
+                <option value="inversa">Inversamente Proporcional</option>
+            </select>
+        </div>
+
+        <!-- Parte superior: A -> B -->
+        <div class="linha">
+            <input type="number" id="a" placeholder="A" required>
+            <p>⟶</p>
+            <input type="number" id="b" placeholder="B" required>
+        </div>
+
+        <!-- Parte inferior: C -> X -->
+        <div class="linha">
+            <input type="number" id="c" placeholder="C" required>
+            <p>⟶</p>
+            <input type="text" id="x" placeholder="X" disabled>
+        </div>
+
+        <button type="button" onclick="calcular()">Calcular</button>
+        <button type="button" onclick="reiniciar()" class="btn-reset">Reiniciar</button>
+
+        <div class="resultado">
+            <p>O valor de <strong>X</strong> é: <span id="resultado">?</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
